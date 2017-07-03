@@ -158,7 +158,7 @@
     "standard-version": "4.2.0",
     "tslint": "^5.2.0",
     "typescript": "^2.3.2",
-    "vscode": "^1.1.0"
+    "vscode": "^1.1.2"
   },
   "dependencies": {
     "execa": "^0.7.0",
